@@ -16,6 +16,8 @@ Berikut merupakan beberapa tampilan ketika project di jalankan.
 
 **1. Tampilan Awal**
 
+Dibagian ini tampilan awal kosong karena tidak terkoneksi dengan server API
+
 ![image](https://github.com/Andriansyah00/Andri_DatabaseAPIProject/assets/73049521/a3d536ce-18e6-4f83-b564-f3847916fe4b)
 
 **2. Tampilan Ketika Cari Data**
@@ -30,3 +32,4 @@ Berikut merupakan beberapa tampilan ketika project di jalankan.
 
 ![image](https://github.com/Andriansyah00/Andri_DatabaseAPIProject/assets/73049521/26b44531-cf71-49cc-9121-7323ed07e581)
 
+Semua tampilan diatas merupakan tampilan UI nya saja dan tidak terkoneksi dengan server.
