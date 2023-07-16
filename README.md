@@ -1,12 +1,12 @@
-# Andri_DatabaseAPIProject
+# Aldi_syafera_DatabaseAPIProject
 
 PROJECT UJIAN AKHIR SEMESTER (UAS)
 
 <hr>
 
-Nama : Andriansyah <br>
-Nim : 312010011 <br>
-Kelas : TI.20.C1
+Nama : Aldi Syafera <br>
+Nim : 312010008 <br>
+Kelas : TI.20.D1
 
 <hr>
 
